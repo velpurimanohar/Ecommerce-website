@@ -76,4 +76,61 @@
 }
 
 /* navbar css ends here */
+/* container css starts here */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    flex-wrap: wrap;
+  }
+  
+  .content {
+    max-width: 600px;
+  }
+  
+  .content h1 {
+    font-size: 40px;
+    font-weight: 800;
+  }
+  
+  .content p {
+    font-size: 16px;
+    margin: 20px 0;
+    line-height: 1.6;
+  }
+  button {
+    background-color: black;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .stats {
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+    font-size: 15px;
+  }
+  
+  .image img {
+    max-width: 350px;
+    width: 100%;
+    height: auto;
+  }
+  
+  .brands {
+    display: flex;
+    justify-content: space-around;
+    background-color: #000;
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+/* container css ends here */
 
