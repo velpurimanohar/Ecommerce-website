@@ -173,7 +173,7 @@
 .view-btn{
   display: inline-block;
   margin-top: 5%;
-  margin-left: 45%;
+  margin-left: 43%;
   margin-bottom: 5%;
   text-decoration: none;
   color: black;
@@ -193,3 +193,15 @@
   margin-left: 10%;
 
 }
+
+/* top selling starts here  */
+
+.top-selling{
+  margin-top: 10%;
+}
+
+.top-head{
+  text-align: center;
+
+}
+/* top selling ends here  */
