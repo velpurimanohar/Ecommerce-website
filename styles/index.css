@@ -133,5 +133,53 @@
   }
 
 /* container css ends here */
+/* new arrivals starts here */
+
+.new-arrivals{
+  margin-top: 5%;
+}
+
+.new-head{
+  text-align: center;
+}
 
 
+
+.cards{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 5%;
+  margin-left: 9%;
+  gap: 20px;
+}
+
+.card-top img{
+  border-radius: 10px;
+}
+
+.card-bottom{
+  line-height: 20px;
+}
+
+
+.star-list{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.view-btn{
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 45%;
+  margin-bottom: 5%;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 15px 50px;
+  border-radius: 30px;
+}
+
+/* new arrivals ends here */
