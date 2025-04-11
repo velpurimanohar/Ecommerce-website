@@ -173,7 +173,7 @@
 .view-btn{
   display: inline-block;
   margin-top: 5%;
-  margin-left: 45%;
+  margin-left: 43%;
   margin-bottom: 5%;
   text-decoration: none;
   color: black;
@@ -183,3 +183,30 @@
 }
 
 /* new arrivals ends here */
+
+.line{
+  width: 80%;
+  height: 1px;
+  background-color: rgba(238, 238, 238, 1);
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+
+}
+
+/* top selling starts here  */
+
+.top-selling{
+  margin-top: 10%;
+}
+
+.top-head{
+  text-align: center;
+
+}
+/* top selling ends here  */
+/* browse-feature starts here */
+
+
+
+/* browse-feature ends here */
